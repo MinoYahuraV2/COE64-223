@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ProcessInterger {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter numbers [Exit press number <=0 ] : ");
+        System.out.print("Enter numbers [Exit press number1 <=0 ] : ");
         int number;
         int sum1 = 0; // Sum of even numbers
         int sum2 = 0; // Sum of odd numbers

@@ -12,7 +12,7 @@ public class LoopPassOrFail{
         score1 = sc.nextInt();
         System.out.print("Enter score2 (1-100) : ");
         score2 = sc.nextInt();
-        System.out.print("Enter score3 (1-100) : ");
+        System.out.print("Enter1 score3 (1-100) : ");
         score3 = sc.nextInt();
 
         mean = (score1+score2+score3)/3;

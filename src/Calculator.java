@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Press operatoAr : ");
+        System.out.print("Press operatoAr1 : ");
         char choice = sc.next().charAt(0);
         System.out.print("Please enter x : ");
         int x = sc.nextInt();

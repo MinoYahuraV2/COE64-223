@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Midterm {
     public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
-            System.out.print("Enter phone : ");
+            System.out.print("Enter phone1 : ");
             String number = sc.nextLine();
 
             for(int i = 0 ; i < 10 ; i++){

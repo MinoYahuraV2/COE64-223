@@ -3,6 +3,7 @@ public class GenEdCourse extends Course {
 
     public GenEdCourse(String id, int u, String g) {
         super(id, u, g);
+        System.out.println("Creating GenEdCourse Object");
     }
 
     @Override

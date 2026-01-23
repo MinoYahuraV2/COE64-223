@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class SumElementMatrix {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter matrix row and column : ");
+        System.out.print("Enter matrix row and column1 : ");
         int numc1 = sc.nextInt();
         int numc2 = sc.nextInt();
         System.out.print("Enter start number : ");

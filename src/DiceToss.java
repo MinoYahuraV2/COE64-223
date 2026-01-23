@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class DiceToss {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter n : ");
+        System.out.print("Enter n1 : ");
         int n = sc.nextInt();
         
         int n1 = (int)(Math.random()*6)+1;

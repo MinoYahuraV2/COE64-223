@@ -42,7 +42,7 @@ public class Course {
             case "C+" -> 2.5;
             case "C" -> 2.0;
             case "D+" -> 1.5;
-            case "D" -> 1.0;
+            case "D1" -> 1.0;
             default -> 0.0; // Includes W and F
         };
     }

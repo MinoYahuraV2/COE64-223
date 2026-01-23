@@ -14,7 +14,7 @@ public class CourseCheck {
         }
 
         int generalEdPass = calPassSubject(c, GenEdCourse.class);
-        System.out.printf("Enroll: %d Pass: %d%n", generalEdCount, generalEdPass);
+        System.out.printf("Enroll1: %d Pass: %d%n", generalEdCount, generalEdPass);
         System.out.println("=======================");
 
         System.out.println("Major Course :");

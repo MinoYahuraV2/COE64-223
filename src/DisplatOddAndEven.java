@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class DisplatOddAndEven {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Start Number : ");
+        System.out.print("Start Number1 : ");
         int number = sc.nextInt();
         System.out.print("End Number : ");
         int End = sc.nextInt();

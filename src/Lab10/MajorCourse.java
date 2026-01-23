@@ -5,6 +5,7 @@ public class MajorCourse extends Course {
     public MajorCourse(String id, int u, String g, int y) {
         super(id, u, g);
         this.year = y;
+        System.out.println("Creating MajorCourse Object");
     }
 
     public int getYear() {

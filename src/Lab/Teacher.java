@@ -46,7 +46,7 @@ public class Teacher {
 
     public static void main(String[] args) {
         // Creating Teacher objects
-        Teacher teacher1 = new Teacher("AAA", 'F', 40, 'M');
+        Teacher teacher1 = new Teacher("AAA1", 'F', 40, 'M');
         Teacher teacher2 = new Teacher("BBB", 'M', 51, 'S');
         Teacher teacher3 = new Teacher("CCC", 'M', 39, 'M');
         Teacher teacher4 = new Teacher("DDD", 'F', 45, 'S');

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TestCharLoop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter number of loop: ");
+        System.out.print("Enter number of loop1: ");
         int loop = sc.nextInt();
         for (int i = 0; i < loop; i++) {
             System.out.print("Any character: ");

@@ -3,7 +3,7 @@ public class SmallestNumber
 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please enter 3 numbers");
+        System.out.println("Please enter 3 numbers1");
         System.out.print("no.1 : ");
         int no1 = sc.nextInt();
         System.out.print("no.2 : ");
