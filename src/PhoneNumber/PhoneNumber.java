@@ -56,6 +56,7 @@ public class PhoneNumber {
             if (digit >= '0' && digit <= '9') {
                 freq[digit - '0']++;
             }
+            
         }
         return freq;
     }

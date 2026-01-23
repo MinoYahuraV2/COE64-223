@@ -18,6 +18,7 @@ public class PhoneNumberDemo {
             String number = scanner.nextLine();
             phoneNumbers[i] = new PhoneNumber(number);
         }
+        
 
         System.out.println("We have " + numPhones + " Phone Numbers");
 
